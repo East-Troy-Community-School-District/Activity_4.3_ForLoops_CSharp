@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\bin\Debug\CountDownCountUp.exe.config
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\bin\Debug\CountDownCountUp.exe
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\bin\Debug\CountDownCountUp.pdb
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\obj\Debug\CountDownCountUp.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\obj\Debug\CountDownCountUp.exe
+C:\Users\Nolan Pawelski\Desktop\CountDownCountUp\obj\Debug\CountDownCountUp.pdb

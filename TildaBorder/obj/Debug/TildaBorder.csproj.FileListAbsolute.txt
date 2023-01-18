@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\bin\Debug\TildaBorder.exe.config
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\bin\Debug\TildaBorder.exe
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\bin\Debug\TildaBorder.pdb
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\obj\Debug\TildaBorder.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\obj\Debug\TildaBorder.exe
+C:\Users\Nolan Pawelski\Desktop\TildaBorder\obj\Debug\TildaBorder.pdb

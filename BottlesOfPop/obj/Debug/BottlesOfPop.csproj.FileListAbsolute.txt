@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\bin\Debug\BottlesOfPop.exe.config
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\bin\Debug\BottlesOfPop.exe
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\bin\Debug\BottlesOfPop.pdb
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\obj\Debug\BottlesOfPop.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\obj\Debug\BottlesOfPop.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\obj\Debug\BottlesOfPop.exe
+C:\Users\Nolan Pawelski\Desktop\BottlesOfPop\obj\Debug\BottlesOfPop.pdb
