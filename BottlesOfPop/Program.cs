@@ -1,7 +1,8 @@
 ﻿/*
  * Bottles of Pop
- * 1/17/2023
- * C#.NET I
+ * Pawelski
+ * 10/8/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Before running the program, predict what it will display.
