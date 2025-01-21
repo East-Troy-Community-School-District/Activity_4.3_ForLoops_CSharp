@@ -1,17 +1,17 @@
 ﻿/*
  * Bottles of Pop
- * Pawelski
- * 10/8/2023
- * Developing Desktop Applications
+ * 1/21/2025
  * 
  * Instructions:
- * Before running the program, predict what it will display.
- * Check your prediction by running the program. Finally,
- * be prepared to discuss the following questions...
- * 1. Is it necessary to always use i as the loop control variable
- *    in a for loop?
- * 2. Why did the program print "1 bottle of pop on the wall!" after
- *    the loop instead of inside?
+ * 1.   Before running the program, predict what it will display.
+ *      Check your prediction by running the program. Also, answer
+ *      any questions in the comments below.
+ * 2.   Is it necessary to always use i as the loop control variable in a for loop?
+ * 3.   Why did the program print "1 bottle of pop on the wall!" after
+ *      the loop instead of inside?
+ * 4.   This program demonstrates a way to solve an off by one error, which
+ *      means that we either went too far or stopped too early by one iteration.
+ *      How did the loop solve this error?
  */
 
 using System;
@@ -26,7 +26,7 @@ namespace BottlesOfPop
     {
         static void Main(string[] args)
         {
-            for(int bottles = 99; bottles > 1; bottles--)
+            for(int bottles = 99; bottles > 1; bottles--)       // What does this line of code do?
             {
                 Console.WriteLine(bottles + " bottles of pop on the wall!");
             }

@@ -1,16 +1,16 @@
 ﻿/*
  * Count Down Count Up
- * Pawelski
- * 10/8/2023
- * Developing Desktop Applications
+ * 1/21/2025
  * 
  * Instructions:
- * Before running the program, predict what it will display.
- * Check your prediction by running the program. Finally,
- * be prepared to discuss the following questions...
- * 1. Why could we reuse i as the loop control variable
- *    in each loop?
- * 2. How does this example demonstrate the concept of scope?
+ * 1.   Before running the program, predict what it will display.
+ *      Check your prediction by running the program. In addition,
+ *      explain what the lines of code with comments do.
+ * 2.   Why could we reuse i as the loop control variable
+ *      in each loop?
+ * 3.   How does this example demonstrate the concept of scope?
+ * 4.   Modify the program so that it counts up then down.
+ * 5.   Modify the program so that it starts and ends the count at 0.
  */
 
 using System;
@@ -25,12 +25,12 @@ namespace CountDownCountUp
     {
         static void Main(string[] args)
         {
-            for(int i = 100; i > 0; i--)
+            for(int i = 100; i > 0; i--)    // What does this line of code do?
             {
                 Console.WriteLine(i);
             }
             Console.WriteLine();
-            for (int i = 1; i <= 100; i++)
+            for (int i = 1; i <= 100; i++)  // What does this line of code do?
             {
                 Console.WriteLine(i);
             }

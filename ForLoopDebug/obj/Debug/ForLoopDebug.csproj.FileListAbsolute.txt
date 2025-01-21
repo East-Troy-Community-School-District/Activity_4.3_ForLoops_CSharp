@@ -1,0 +1,14 @@
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.exe.config
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\bin\Debug\ForLoopDebug.pdb
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.exe
+\\et-fileserver\staff\pawnol\Desktop\ForLoopDebug\obj\Debug\ForLoopDebug.pdb
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\bin\Debug\ForLoopDebug.exe.config
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\bin\Debug\ForLoopDebug.exe
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\bin\Debug\ForLoopDebug.pdb
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\obj\Debug\ForLoopDebug.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\obj\Debug\ForLoopDebug.exe
+C:\Users\pawel\Desktop\4.3\ForLoopDebug\obj\Debug\ForLoopDebug.pdb
